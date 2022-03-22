@@ -1,0 +1,8 @@
+/home/ak9844297/openair-cn/build/hss/build/CMakeFiles/rebuild_cache.dir
+/home/ak9844297/openair-cn/build/hss/build/CMakeFiles/edit_cache.dir
+/home/ak9844297/openair-cn/build/hss/build/CMakeFiles/hss_access_restriction.dir
+/home/ak9844297/openair-cn/build/hss/build/CMakeFiles/hss_auc.dir
+/home/ak9844297/openair-cn/build/hss/build/CMakeFiles/oai_hss.dir
+/home/ak9844297/openair-cn/build/hss/build/CMakeFiles/hss_db.dir
+/home/ak9844297/openair-cn/build/hss/build/CMakeFiles/hss_s6a.dir
+/home/ak9844297/openair-cn/build/hss/build/CMakeFiles/hss_utils.dir
