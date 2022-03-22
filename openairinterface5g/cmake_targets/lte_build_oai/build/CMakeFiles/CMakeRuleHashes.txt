@@ -1,0 +1,14 @@
+# Hashes of file build rules.
+f07cc146b1a0a8ab8fa35b8e01474ffb /home/ak9844297/openairinterface5g/common/utils/T/T_IDs.h
+2f4cd1a3f576db7eb61979b53c3cca78 CMakeFiles/generate_T
+0cbb8f08e0e239c439816a31528cc8ae CMakeFiles/m2_flag
+0ee6c396cf50b66deec877cc553a1bb7 CMakeFiles/m3_flag
+2f4cd1a3f576db7eb61979b53c3cca78 CMakeFiles/nasmesh
+2f4cd1a3f576db7eb61979b53c3cca78 CMakeFiles/oai_nw_drv
+7d56eb7c620188a8bc2bae5209df5f99 CMakeFiles/rrc_flag
+b56629fcf29ce4ab4ce7b7b1640a6a85 CMakeFiles/s1ap_flag
+2f4cd1a3f576db7eb61979b53c3cca78 CMakeFiles/ue_ip
+b8ebe5ee4cdcb8acddc8e540c470412b CMakeFiles/x2_flag
+513af45ec6997777d17f9d07981d839d nasmesh.ko
+79ce9ddd853881b101896076cb51bcba oai_nw_drv.ko
+a6b356d64213c6ca2580b7a23308e22d ue_ip.ko
